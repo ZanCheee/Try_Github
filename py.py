@@ -14,3 +14,5 @@ if __name__ == "__main__":
   dfdfdf
 
   mikezkieee
+  print("Hello, Mike!")
+  print("Hello, Mike!")
